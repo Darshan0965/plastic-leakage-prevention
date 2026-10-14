@@ -1,0 +1,546 @@
+{
+  "type": "FeatureCollection",
+  "name": "Ward178_candidate_connections",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2298995670546,
+            12.980491932952615
+          ],
+          [
+            80.2298995670546,
+            12.980491932952615
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 1,
+        "drain_a": "6058",
+        "drain_b": "6060",
+        "distance_m": 0.0,
+        "endpoint_a": "start",
+        "endpoint_b": "end",
+        "invert_sp_a": "4.698",
+        "invert_ep_a": "4.081",
+        "invert_sp_b": "3.971",
+        "invert_ep_b": "1.747",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.25221258593656,
+            12.980190056025185
+          ],
+          [
+            80.25221258593656,
+            12.980190056025185
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 2,
+        "drain_a": "6062",
+        "drain_b": "6091",
+        "distance_m": 0.0,
+        "endpoint_a": "end",
+        "endpoint_b": "start",
+        "invert_sp_a": "3.966",
+        "invert_ep_a": "2.882",
+        "invert_sp_b": "3.966",
+        "invert_ep_b": "2.882",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23815090106139,
+            12.982631601874862
+          ],
+          [
+            80.23815090106139,
+            12.982631601874862
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 3,
+        "drain_a": "6066",
+        "drain_b": "6067",
+        "distance_m": 0.0,
+        "endpoint_a": "end",
+        "endpoint_b": "end",
+        "invert_sp_a": "4.196",
+        "invert_ep_a": "2.954",
+        "invert_sp_b": "4.235",
+        "invert_ep_b": "4.196",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2367838376755,
+            12.982898745381338
+          ],
+          [
+            80.2367838376755,
+            12.982898745381338
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 4,
+        "drain_a": "6067",
+        "drain_b": "6068",
+        "distance_m": 0.0,
+        "endpoint_a": "start",
+        "endpoint_b": "end",
+        "invert_sp_a": "4.235",
+        "invert_ep_a": "4.196",
+        "invert_sp_b": "4.956",
+        "invert_ep_b": "4.235",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23220535464104,
+            12.978585886422037
+          ],
+          [
+            80.23220535464104,
+            12.978585886422037
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 5,
+        "drain_a": "6078",
+        "drain_b": "6089",
+        "distance_m": 0.0,
+        "endpoint_a": "end",
+        "endpoint_b": "end",
+        "invert_sp_a": "2.861",
+        "invert_ep_a": "2.738",
+        "invert_sp_b": "2.738",
+        "invert_ep_b": "2.358",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23953903263566,
+            12.98001036616176
+          ],
+          [
+            80.23953903263566,
+            12.98001036616176
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 6,
+        "drain_a": "6079",
+        "drain_b": "6088",
+        "distance_m": 0.0,
+        "endpoint_a": "start",
+        "endpoint_b": "end",
+        "invert_sp_a": "4.122",
+        "invert_ep_a": "3.535",
+        "invert_sp_b": "5.066",
+        "invert_ep_b": "3.400",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23305281180536,
+            12.97860422185824
+          ],
+          [
+            80.23305281180536,
+            12.97860422185824
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 7,
+        "drain_a": "6082",
+        "drain_b": "6089",
+        "distance_m": 0.0,
+        "endpoint_a": "start",
+        "endpoint_b": "start",
+        "invert_sp_a": "2.738",
+        "invert_ep_a": "2.358",
+        "invert_sp_b": "2.738",
+        "invert_ep_b": "2.358",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2329619957234,
+            12.97735736272047
+          ],
+          [
+            80.2329619957234,
+            12.97735736272047
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 8,
+        "drain_a": "6082",
+        "drain_b": "6090",
+        "distance_m": 0.0,
+        "endpoint_a": "end",
+        "endpoint_b": "start",
+        "invert_sp_a": "2.738",
+        "invert_ep_a": "2.358",
+        "invert_sp_b": "2.738",
+        "invert_ep_b": "2.358",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.22941928099134,
+            12.976937609566988
+          ],
+          [
+            80.22941928099134,
+            12.976937609566988
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 9,
+        "drain_a": "6083",
+        "drain_b": "6084",
+        "distance_m": 0.0,
+        "endpoint_a": "start",
+        "endpoint_b": "start",
+        "invert_sp_a": "2.387",
+        "invert_ep_a": "2.022",
+        "invert_sp_b": "2.387",
+        "invert_ep_b": "2.022",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2330422682789,
+            12.978605718735677
+          ],
+          [
+            80.23305281180536,
+            12.97860422185824
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 10,
+        "drain_a": "6081",
+        "drain_b": "6082",
+        "distance_m": 1.154,
+        "endpoint_a": "start",
+        "endpoint_b": "start",
+        "invert_sp_a": "2.986",
+        "invert_ep_a": "2.784",
+        "invert_sp_b": "2.738",
+        "invert_ep_b": "2.358",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2330422682789,
+            12.978605718735677
+          ],
+          [
+            80.23305281180536,
+            12.97860422185824
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 11,
+        "drain_a": "6081",
+        "drain_b": "6089",
+        "distance_m": 1.154,
+        "endpoint_a": "start",
+        "endpoint_b": "start",
+        "invert_sp_a": "2.986",
+        "invert_ep_a": "2.784",
+        "invert_sp_b": "2.738",
+        "invert_ep_b": "2.358",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.25221258593656,
+            12.980190056025185
+          ],
+          [
+            80.25222515516403,
+            12.980188880414913
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 12,
+        "drain_a": "6062",
+        "drain_b": "6085",
+        "distance_m": 1.368,
+        "endpoint_a": "end",
+        "endpoint_b": "start",
+        "invert_sp_a": "3.966",
+        "invert_ep_a": "2.882",
+        "invert_sp_b": "2.653",
+        "invert_ep_b": "2.972",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.25222515516403,
+            12.980188880414913
+          ],
+          [
+            80.25221258593656,
+            12.980190056025185
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 13,
+        "drain_a": "6085",
+        "drain_b": "6091",
+        "distance_m": 1.368,
+        "endpoint_a": "start",
+        "endpoint_b": "start",
+        "invert_sp_a": "2.653",
+        "invert_ep_a": "2.972",
+        "invert_sp_b": "3.966",
+        "invert_ep_b": "2.882",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23054359533296,
+            12.977007203444757
+          ],
+          [
+            80.23054478560071,
+            12.976993161593372
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 14,
+        "drain_a": "6057",
+        "drain_b": "6084",
+        "distance_m": 1.567,
+        "endpoint_a": "start",
+        "endpoint_b": "end",
+        "invert_sp_a": "2.207",
+        "invert_ep_a": "2.025",
+        "invert_sp_b": "2.387",
+        "invert_ep_b": "2.022",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23290514763728,
+            12.977361916402016
+          ],
+          [
+            80.23293446056333,
+            12.977375236926651
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 15,
+        "drain_a": "6052",
+        "drain_b": "6061",
+        "distance_m": 3.505,
+        "endpoint_a": "start",
+        "endpoint_b": "end",
+        "invert_sp_a": "2.954",
+        "invert_ep_a": "2.778",
+        "invert_sp_b": "2.986",
+        "invert_ep_b": "2.784",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23293446056333,
+            12.977375236926651
+          ],
+          [
+            80.2329619957234,
+            12.97735736272047
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 16,
+        "drain_a": "6061",
+        "drain_b": "6082",
+        "distance_m": 3.585,
+        "endpoint_a": "end",
+        "endpoint_b": "end",
+        "invert_sp_a": "2.986",
+        "invert_ep_a": "2.784",
+        "invert_sp_b": "2.738",
+        "invert_ep_b": "2.358",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23293446056333,
+            12.977375236926651
+          ],
+          [
+            80.2329619957234,
+            12.97735736272047
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 17,
+        "drain_a": "6061",
+        "drain_b": "6090",
+        "distance_m": 3.585,
+        "endpoint_a": "end",
+        "endpoint_b": "start",
+        "invert_sp_a": "2.986",
+        "invert_ep_a": "2.784",
+        "invert_sp_b": "2.738",
+        "invert_ep_b": "2.358",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.23290514763728,
+            12.977361916402016
+          ],
+          [
+            80.23292331965716,
+            12.977328185717576
+          ]
+        ]
+      },
+      "properties": {
+        "candidate_id": 18,
+        "drain_a": "6052",
+        "drain_b": "6090",
+        "distance_m": 4.236,
+        "endpoint_a": "start",
+        "endpoint_b": "end",
+        "invert_sp_a": "2.954",
+        "invert_ep_a": "2.778",
+        "invert_sp_b": "2.738",
+        "invert_ep_b": "2.358",
+        "connection_status": "UNVERIFIED_CANDIDATE",
+        "flow_direction": "UNKNOWN"
+      }
+    }
+  ]
+}

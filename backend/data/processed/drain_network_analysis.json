@@ -1,0 +1,398 @@
+{
+  "analysis_type": "GEOMETRIC_ENDPOINT_PROXIMITY",
+  "drain_feature_count": 43,
+  "usable_line_count": 43,
+  "endpoint_tolerance_m": 5.0,
+  "unique_geometric_candidate_pairs": 18,
+  "exported_candidate_connection_count": 18,
+  "connected_component_count": 29,
+  "components": [
+    {
+      "component_number": 1,
+      "drain_count": 7,
+      "drain_ids": [
+        "6052",
+        "6061",
+        "6078",
+        "6081",
+        "6082",
+        "6089",
+        "6090"
+      ]
+    },
+    {
+      "component_number": 2,
+      "drain_count": 3,
+      "drain_ids": [
+        "6057",
+        "6083",
+        "6084"
+      ]
+    },
+    {
+      "component_number": 3,
+      "drain_count": 3,
+      "drain_ids": [
+        "6062",
+        "6085",
+        "6091"
+      ]
+    },
+    {
+      "component_number": 4,
+      "drain_count": 3,
+      "drain_ids": [
+        "6066",
+        "6067",
+        "6068"
+      ]
+    },
+    {
+      "component_number": 5,
+      "drain_count": 2,
+      "drain_ids": [
+        "6058",
+        "6060"
+      ]
+    },
+    {
+      "component_number": 6,
+      "drain_count": 2,
+      "drain_ids": [
+        "6079",
+        "6088"
+      ]
+    },
+    {
+      "component_number": 7,
+      "drain_count": 1,
+      "drain_ids": [
+        "6049"
+      ]
+    },
+    {
+      "component_number": 8,
+      "drain_count": 1,
+      "drain_ids": [
+        "6050"
+      ]
+    },
+    {
+      "component_number": 9,
+      "drain_count": 1,
+      "drain_ids": [
+        "6051"
+      ]
+    },
+    {
+      "component_number": 10,
+      "drain_count": 1,
+      "drain_ids": [
+        "6053"
+      ]
+    },
+    {
+      "component_number": 11,
+      "drain_count": 1,
+      "drain_ids": [
+        "6054"
+      ]
+    },
+    {
+      "component_number": 12,
+      "drain_count": 1,
+      "drain_ids": [
+        "6055"
+      ]
+    },
+    {
+      "component_number": 13,
+      "drain_count": 1,
+      "drain_ids": [
+        "6056"
+      ]
+    },
+    {
+      "component_number": 14,
+      "drain_count": 1,
+      "drain_ids": [
+        "6059"
+      ]
+    },
+    {
+      "component_number": 15,
+      "drain_count": 1,
+      "drain_ids": [
+        "6063"
+      ]
+    },
+    {
+      "component_number": 16,
+      "drain_count": 1,
+      "drain_ids": [
+        "6064"
+      ]
+    },
+    {
+      "component_number": 17,
+      "drain_count": 1,
+      "drain_ids": [
+        "6065"
+      ]
+    },
+    {
+      "component_number": 18,
+      "drain_count": 1,
+      "drain_ids": [
+        "6069"
+      ]
+    },
+    {
+      "component_number": 19,
+      "drain_count": 1,
+      "drain_ids": [
+        "6070"
+      ]
+    },
+    {
+      "component_number": 20,
+      "drain_count": 1,
+      "drain_ids": [
+        "6071"
+      ]
+    },
+    {
+      "component_number": 21,
+      "drain_count": 1,
+      "drain_ids": [
+        "6072"
+      ]
+    },
+    {
+      "component_number": 22,
+      "drain_count": 1,
+      "drain_ids": [
+        "6073"
+      ]
+    },
+    {
+      "component_number": 23,
+      "drain_count": 1,
+      "drain_ids": [
+        "6074"
+      ]
+    },
+    {
+      "component_number": 24,
+      "drain_count": 1,
+      "drain_ids": [
+        "6075"
+      ]
+    },
+    {
+      "component_number": 25,
+      "drain_count": 1,
+      "drain_ids": [
+        "6076"
+      ]
+    },
+    {
+      "component_number": 26,
+      "drain_count": 1,
+      "drain_ids": [
+        "6077"
+      ]
+    },
+    {
+      "component_number": 27,
+      "drain_count": 1,
+      "drain_ids": [
+        "6080"
+      ]
+    },
+    {
+      "component_number": 28,
+      "drain_count": 1,
+      "drain_ids": [
+        "6086"
+      ]
+    },
+    {
+      "component_number": 29,
+      "drain_count": 1,
+      "drain_ids": [
+        "6087"
+      ]
+    }
+  ],
+  "candidate_pairs": [
+    {
+      "drain_a": "6058",
+      "drain_b": "6060",
+      "distance_m": 0.0,
+      "endpoint_a": "start",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6062",
+      "drain_b": "6091",
+      "distance_m": 0.0,
+      "endpoint_a": "end",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6066",
+      "drain_b": "6067",
+      "distance_m": 0.0,
+      "endpoint_a": "end",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6067",
+      "drain_b": "6068",
+      "distance_m": 0.0,
+      "endpoint_a": "start",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6078",
+      "drain_b": "6089",
+      "distance_m": 0.0,
+      "endpoint_a": "end",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6079",
+      "drain_b": "6088",
+      "distance_m": 0.0,
+      "endpoint_a": "start",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6082",
+      "drain_b": "6089",
+      "distance_m": 0.0,
+      "endpoint_a": "start",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6082",
+      "drain_b": "6090",
+      "distance_m": 0.0,
+      "endpoint_a": "end",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6083",
+      "drain_b": "6084",
+      "distance_m": 0.0,
+      "endpoint_a": "start",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6081",
+      "drain_b": "6082",
+      "distance_m": 1.154,
+      "endpoint_a": "start",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6081",
+      "drain_b": "6089",
+      "distance_m": 1.154,
+      "endpoint_a": "start",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6062",
+      "drain_b": "6085",
+      "distance_m": 1.368,
+      "endpoint_a": "end",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6085",
+      "drain_b": "6091",
+      "distance_m": 1.368,
+      "endpoint_a": "start",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6057",
+      "drain_b": "6084",
+      "distance_m": 1.567,
+      "endpoint_a": "start",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6052",
+      "drain_b": "6061",
+      "distance_m": 3.505,
+      "endpoint_a": "start",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6061",
+      "drain_b": "6082",
+      "distance_m": 3.585,
+      "endpoint_a": "end",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6061",
+      "drain_b": "6090",
+      "distance_m": 3.585,
+      "endpoint_a": "end",
+      "endpoint_b": "start",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "drain_a": "6052",
+      "drain_b": "6090",
+      "distance_m": 4.236,
+      "endpoint_a": "start",
+      "endpoint_b": "end",
+      "status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    }
+  ],
+  "limitations": [
+    "Endpoint proximity does not prove a physical connection.",
+    "Connected components are based on candidate proximity only.",
+    "No hydraulic flow direction has been inferred.",
+    "MultiLineString endpoint handling is approximate."
+  ]
+}

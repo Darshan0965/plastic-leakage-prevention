@@ -1,0 +1,218 @@
+{
+  "analysis_type": "CANDIDATE_CONNECTION_VALIDATION",
+  "drain_feature_count": 43,
+  "candidate_feature_count": 18,
+  "unique_unordered_drain_pairs": 18,
+  "duplicate_unordered_pairs": [],
+  "zero_length_connector_count": 9,
+  "distance_mismatch_count": 0,
+  "missing_source_drain_count": 0,
+  "distance_tolerance_m": 0.25,
+  "results": [
+    {
+      "candidate_id": 1,
+      "drain_a": "6058",
+      "drain_b": "6060",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 2,
+      "drain_a": "6062",
+      "drain_b": "6091",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 3,
+      "drain_a": "6066",
+      "drain_b": "6067",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 4,
+      "drain_a": "6067",
+      "drain_b": "6068",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 5,
+      "drain_a": "6078",
+      "drain_b": "6089",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 6,
+      "drain_a": "6079",
+      "drain_b": "6088",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 7,
+      "drain_a": "6082",
+      "drain_b": "6089",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 8,
+      "drain_a": "6082",
+      "drain_b": "6090",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 9,
+      "drain_a": "6083",
+      "drain_b": "6084",
+      "exported_distance_m": 0.0,
+      "recalculated_connector_length_m": 0.0,
+      "issues": [
+        "ZERO_LENGTH_CONNECTOR"
+      ],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 10,
+      "drain_a": "6081",
+      "drain_b": "6082",
+      "exported_distance_m": 1.154,
+      "recalculated_connector_length_m": 1.154,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 11,
+      "drain_a": "6081",
+      "drain_b": "6089",
+      "exported_distance_m": 1.154,
+      "recalculated_connector_length_m": 1.154,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 12,
+      "drain_a": "6062",
+      "drain_b": "6085",
+      "exported_distance_m": 1.368,
+      "recalculated_connector_length_m": 1.368,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 13,
+      "drain_a": "6085",
+      "drain_b": "6091",
+      "exported_distance_m": 1.368,
+      "recalculated_connector_length_m": 1.368,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 14,
+      "drain_a": "6057",
+      "drain_b": "6084",
+      "exported_distance_m": 1.567,
+      "recalculated_connector_length_m": 1.567,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 15,
+      "drain_a": "6052",
+      "drain_b": "6061",
+      "exported_distance_m": 3.505,
+      "recalculated_connector_length_m": 3.505,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 16,
+      "drain_a": "6061",
+      "drain_b": "6082",
+      "exported_distance_m": 3.585,
+      "recalculated_connector_length_m": 3.585,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 17,
+      "drain_a": "6061",
+      "drain_b": "6090",
+      "exported_distance_m": 3.585,
+      "recalculated_connector_length_m": 3.585,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    },
+    {
+      "candidate_id": 18,
+      "drain_a": "6052",
+      "drain_b": "6090",
+      "exported_distance_m": 4.236,
+      "recalculated_connector_length_m": 4.236,
+      "issues": [],
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN"
+    }
+  ],
+  "limitations": [
+    "This script validates geometry and metadata consistency only.",
+    "It does not confirm physical pipe connections.",
+    "It does not infer hydraulic flow direction.",
+    "MultiLineString endpoint handling is approximate.",
+    "Zero-length connectors may be valid when endpoints coincide."
+  ]
+}

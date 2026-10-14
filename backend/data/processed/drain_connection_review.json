@@ -1,0 +1,213 @@
+{
+  "analysis_type": "DRAIN_CONNECTION_REVIEW",
+  "source_file": "E:\\plastic_leakage_starter\\backend\\data\\processed\\candidate_connections.geojson",
+  "candidate_count": 18,
+  "coincident_endpoint_count": 9,
+  "nearby_endpoint_count": 9,
+  "unverified_count": 18,
+  "limitations": [
+    "Categories describe geometry, not physical connectivity.",
+    "Flow direction is unknown.",
+    "MultiLineString endpoint interpretation may require review."
+  ],
+  "results": [
+    {
+      "candidate_id": 1,
+      "drain_a": "6058",
+      "drain_b": "6060",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 2,
+      "drain_a": "6062",
+      "drain_b": "6091",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 3,
+      "drain_a": "6066",
+      "drain_b": "6067",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 4,
+      "drain_a": "6067",
+      "drain_b": "6068",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 5,
+      "drain_a": "6078",
+      "drain_b": "6089",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 6,
+      "drain_a": "6079",
+      "drain_b": "6088",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 7,
+      "drain_a": "6082",
+      "drain_b": "6089",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 8,
+      "drain_a": "6082",
+      "drain_b": "6090",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 9,
+      "drain_a": "6083",
+      "drain_b": "6084",
+      "distance_m": 0.0,
+      "review_category": "COINCIDENT_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 10,
+      "drain_a": "6081",
+      "drain_b": "6082",
+      "distance_m": 1.154,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 11,
+      "drain_a": "6081",
+      "drain_b": "6089",
+      "distance_m": 1.154,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 12,
+      "drain_a": "6062",
+      "drain_b": "6085",
+      "distance_m": 1.368,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 13,
+      "drain_a": "6085",
+      "drain_b": "6091",
+      "distance_m": 1.368,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 14,
+      "drain_a": "6057",
+      "drain_b": "6084",
+      "distance_m": 1.567,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 15,
+      "drain_a": "6052",
+      "drain_b": "6061",
+      "distance_m": 3.505,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 16,
+      "drain_a": "6061",
+      "drain_b": "6082",
+      "distance_m": 3.585,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 17,
+      "drain_a": "6061",
+      "drain_b": "6090",
+      "distance_m": 3.585,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    },
+    {
+      "candidate_id": 18,
+      "drain_a": "6052",
+      "drain_b": "6090",
+      "distance_m": 4.236,
+      "review_category": "NEARBY_ENDPOINTS",
+      "connection_status": "UNVERIFIED_CANDIDATE",
+      "flow_direction": "UNKNOWN",
+      "verification_required": true,
+      "notes": "Geometry-based candidate only. Verify against authoritative drainage records or a site inspection."
+    }
+  ]
+}
