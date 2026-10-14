@@ -1,4 +1,5 @@
 fastapi
 uvicorn[standard]
 networkx
-pydantic
+streamlit
+requests
